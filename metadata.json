@@ -1,0 +1,6 @@
+{
+  "name": "Hamed Trading Lab",
+  "description": "سامانه شخصی تحلیل و معامله آزمایشی cTrader برای ویندوز و اندروید",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
